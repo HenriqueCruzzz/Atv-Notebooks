@@ -1,7 +1,7 @@
 [
   {
     "nome": "ACER NITRO V15",
-    "imagem": "../img/acerNitro.webp",
+    "imagem": "./img/acerNitro.webp",
     "cpu": "Intel Core i5 13420H",
     "gpu": "NVIDIA GeForce RTX 3050",
     "ram": "8GB DDR5",
@@ -12,7 +12,7 @@
   },
   {
     "nome": "ASUS Vivobook Go 15",
-    "imagem": "../img/asusVivobook.webp",
+    "imagem": "./img/asusVivobook.webp",
     "cpu": "Intel Celeron N4500",
     "gpu": "Integrada - Intel UHD Graphics",
     "ram": "4GB DDR4",
@@ -87,4 +87,5 @@
     "tela": "60hz / 15.6 Polegadas / Full HD / IPS",
     "uso_indicado": ["Estudante", "Produtividade", "Uso Diário"]
   }
+
 ]
