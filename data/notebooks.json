@@ -1,0 +1,90 @@
+[
+  {
+    "nome": "ACER NITRO V15",
+    "imagem": "../img/acerNitro.webp",
+    "cpu": "Intel Core i5 13420H",
+    "gpu": "NVIDIA GeForce RTX 3050",
+    "ram": "8GB DDR5",
+    "armazenamento": "SSD 512GB NVMe",
+    "sis_operacional": "Windows 11 Home",
+    "tela": "144hz / 15.6 Polegadas / Full HD",
+    "uso_indicado": ["Gamer", "Edição de vídeo", "Criação de conteúdo"]
+  },
+  {
+    "nome": "ASUS Vivobook Go 15",
+    "imagem": "../img/asusVivobook.webp",
+    "cpu": "Intel Celeron N4500",
+    "gpu": "Integrada - Intel UHD Graphics",
+    "ram": "4GB DDR4",
+    "armazenamento": "SSD 128GB EMMC",
+    "sis_operacional": "Windows 11 Home",
+    "tela": "60hz / 15.6 Polegadas / HD / LED-backlit Anti-Glare",
+    "uso_indicado": ["Estudante", "Navegação", "Uso Diário"]
+  },
+  {
+    "nome": "Samsung Galaxy Book 4",
+    "imagem": "../img/galaxyBook4.webp",
+    "cpu": "Intel Core i3 1315U",
+    "gpu": "Integrada - Intel UHD Graphics",
+    "ram": "8GB DDR4",
+    "armazenamento": "SSD 256GB NVMe",
+    "sis_operacional": "Windows 11 Home",
+    "tela": "60hz / 15.6 Polegadas / Full HD / LED IPS antirreflexiva",
+    "uso_indicado": ["Programação", "Estudante", "Produtividade"]
+  },
+  {
+    "nome": "Gamer Dell G15",
+    "imagem": "../img/dellg15.avif",
+    "cpu": "Intel Core i5-13450HX",
+    "gpu": "NVIDIA GeForce RTX 3050, 6GB GDDR6",
+    "ram": "8GB DDR5",
+    "armazenamento": "SSD de 256GB NVMe",
+    "sis_operacional": "Ubuntu Linux",
+    "tela": "120Hz / 15.6 Polegadas / FULL HD",
+    "uso_indicado": ["Gamer"]
+  },
+  {
+    "nome": "Lenovo Legion 5",
+    "imagem": "../img/lenovolegion5.webp",
+    "cpu": "Intel Core i7-14650hx",
+    "gpu": "NVIDIA GeForce rtx 4060",
+    "ram": "32GB DDR5",
+    "armazenamento": "SSD 1TB",
+    "sis_operacional": "Windows 11 Home",
+    "tela": "165hz / 16 Polegadas",
+    "uso_indicado": ["Gamer", "Edição de vídeo", "Programação"]
+  },
+  {
+    "nome": "HP 256R",
+    "imagem": "../img/hp.webp",
+    "cpu": "Intel Core i3 1315U",
+    "gpu": "Integrada - Intel Iris Xe Graphics",
+    "ram": "8GB DDR4",
+    "armazenamento": "SSD 512GB NVMe",
+    "sis_operacional": "Windows 11 Home",
+    "tela": "60hz / 15,6 Polegadas / Full HD / IPS",
+    "uso_indicado": ["Estudante", "Produtividade", "Navegação"]
+  },
+  {
+    "nome": "MSI Katana GF66",
+    "imagem": "../img/MSI.jpg",
+    "cpu": "Intel Core i7 11800H",
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "ram": "16GB DDR4",
+    "armazenamento": "SSD 512GB NVMe",
+    "sis_operacional": "Windows 11 Home",
+    "tela": "144hz / 15.6 Polegadas / Full HD",
+    "uso_indicado": ["Gamer", "Edição de vídeo", "Criação de conteúdo"]
+  },
+  {
+    "nome": "Acer Aspire 5",
+    "imagem": "../img/aceraspire5.webp",
+    "cpu": "intel core i5 12450H",
+    "gpu": "Integrada - AMD Radeon Graphics",
+    "ram": "8GB DDR4",
+    "armazenamento": "SSD 512GB NVMe",
+    "sis_operacional": "Windows 11 Home",
+    "tela": "60hz / 15.6 Polegadas / Full HD / IPS",
+    "uso_indicado": ["Estudante", "Produtividade", "Uso Diário"]
+  }
+]

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Modelos de Notebooks</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Modelos de Notebooks</h1>
+  <hr>
+  <div class="filtro">
+    <div class="option">
+      <input type="checkbox" id="uso-diario" value="Uso Diário" onchange="filtrarNotebooks()">
+      <span>Uso Diário</span>
+    </div>
+    <div class="option">
+      <input type="checkbox" id="estudo" value="Estudante" onchange="filtrarNotebooks()">
+      <span>Estudo</span>
+    </div>
+    <div class="option">
+      <input type="checkbox" id="programacao" value="Programação" onchange="filtrarNotebooks()">
+      <span>Programação</span>
+    </div>
+    <div class="option">
+      <input type="checkbox" id="gamer" value="Gamer" onchange="filtrarNotebooks()">
+      <span>Gamer</span>
+    </div>
+    <div class="option">
+      <input type="checkbox" id="produtividade" value="Produtividade" onchange="filtrarNotebooks()">
+      <span>Produtividade</span>
+    </div>
+    <div class="option">
+      <input type="checkbox" id="edicao-video" value="Edição de vídeo" onchange="filtrarNotebooks()">
+      <span>Edição de Vídeo</span>
+    </div>
+  </div>
+  <div id="notebooks-container" class="grid"></div>
+  <script src="script.js"></script>
+</body>
+</html>
