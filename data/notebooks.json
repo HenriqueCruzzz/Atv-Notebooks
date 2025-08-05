@@ -23,7 +23,7 @@
   },
   {
     "nome": "Samsung Galaxy Book 4",
-    "imagem": "/img/galaxyBook4.webp",
+    "imagem": "img/galaxyBook4.webp",
     "cpu": "Intel Core i3 1315U",
     "gpu": "Integrada - Intel UHD Graphics",
     "ram": "8GB DDR4",
@@ -34,7 +34,7 @@
   },
   {
     "nome": "Gamer Dell G15",
-    "imagem": "/img/dellg15.avif",
+    "imagem": "img/dellg15.avif",
     "cpu": "Intel Core i5-13450HX",
     "gpu": "NVIDIA GeForce RTX 3050, 6GB GDDR6",
     "ram": "8GB DDR5",
@@ -45,7 +45,7 @@
   },
   {
     "nome": "Lenovo Legion 5",
-    "imagem": "/img/lenovolegion5.webp",
+    "imagem": "img/lenovolegion5.webp",
     "cpu": "Intel Core i7-14650hx",
     "gpu": "NVIDIA GeForce rtx 4060",
     "ram": "32GB DDR5",
@@ -56,7 +56,7 @@
   },
   {
     "nome": "HP 256R",
-    "imagem": "/img/hp.webp",
+    "imagem": "img/hp.webp",
     "cpu": "Intel Core i3 1315U",
     "gpu": "Integrada - Intel Iris Xe Graphics",
     "ram": "8GB DDR4",
@@ -67,7 +67,7 @@
   },
   {
     "nome": "MSI Katana GF66",
-    "imagem": "/img/MSI.jpg",
+    "imagem": "img/MSI.jpg",
     "cpu": "Intel Core i7 11800H",
     "gpu": "NVIDIA GeForce RTX 3060",
     "ram": "16GB DDR4",
@@ -78,7 +78,7 @@
   },
   {
     "nome": "Acer Aspire 5",
-    "imagem": "/img/aceraspire5.webp",
+    "imagem": "img/aceraspire5.webp",
     "cpu": "intel core i5 12450H",
     "gpu": "Integrada - AMD Radeon Graphics",
     "ram": "8GB DDR4",
